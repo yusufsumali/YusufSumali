@@ -10,4 +10,14 @@ PhotoPea
 Cisco Packet Tracer
 
 Portfolio
- -Packet Tracer work
+ # Packet Tracer
+  -Connection Between Two Switches
+   -Using A Router
+    -Wireless Connection
+     -Wired-Wireless Setup
+      -DHCP
+       -Email Server
+        -FTP
+         -HTTP
+          -IOT
+        
